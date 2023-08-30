@@ -36,5 +36,5 @@ if ((n / i) < i)
 {
 return (1);
 }
-return (check-prime(n, i + 1));
+return (check_prime(n, i + 1));
 }
